@@ -1,4 +1,4 @@
 ---
-empty:
+empty: not
 test: lalalalala
 another: "This is a longer string"
