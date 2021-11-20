@@ -9,3 +9,5 @@ tags:
   - Another-tag
 ---
 This is the **markdown** text.
+
+![erikita](/static/img/erikita.png "erikita")
