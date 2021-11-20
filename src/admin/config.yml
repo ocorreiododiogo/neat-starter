@@ -41,13 +41,12 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Main image", name: "image", widget: "image", choose_url: true }
-      - label: "Images"
-        name: "images"
-        widget: "image"
-        choose_url: true
-        media_library: 
-          config: 
-            multiple: true
+      - label: "Gallery"
+        name: "galleryImages"
+        widget: "list"
+        fields: 
+          - {label: Image, name: image, widget: image}
+          - { label: "Description", name: "description", widget: "string" }
   - label: "Settings"
     name: "settings"
     editor:
