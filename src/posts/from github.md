@@ -1,6 +1,6 @@
 ---
 title: From Github
-description: a test dicrectly from Github
+description: a test directly from Github
 author: Diogo
 date: 2021-11-20T14:45:45.590Z
 tags:
