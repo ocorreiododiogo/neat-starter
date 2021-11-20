@@ -10,4 +10,4 @@ tags:
 ---
 This is the **markdown** text.
 
-![erikita](/static/img/erikita.png "erikita")
+![erikita](https://source.unsplash.com/random "erikita")
