@@ -66,3 +66,10 @@ collections:
           - { label: Name, name: name, widget: string }
           - { label: Author, name: author, widget: string }
           - { label: URL, name: url, widget: string }
+      - label: "Test"
+        name: "test"
+        file: "src/_data/test.yaml"
+        fields:
+          - { label: Empty, name: empty, widget: string }
+          - { label: Test, name: test, widget: string }
+          - { label: Another, name: another, widget: string }
